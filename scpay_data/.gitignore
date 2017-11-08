@@ -1,0 +1,12 @@
+.DS_Store
+.ruby-version
+*.pyc
+lr.py
+traindata-*
+checkpont
+
+chapter3/elasticsearch-*/
+chapter3/kibana-*/
+chapter4/sample/
+chapter5/mnist/MNIST_DATA/
+chapter5/tensorflow/
